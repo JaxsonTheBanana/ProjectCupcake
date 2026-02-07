@@ -1,0 +1,2 @@
+This program is NOT malware. I know .py files are sketchy just to prove it open this link on your browser: https://www.virustotal.com/gui/file/c3bb05b97382c80dbb9a3502c921129442e54d65b9c38c2d7a494f3fbf851b67?nocache=1 this is a scan of the file on virustotal.com which is a malware scanning website using multiple security APIs a.k.a cores to virus scanners
+Five Nights at Freddy's and FNAF: Help Wanted 2 are trademarks of Steel Wool Studios. Project Cupcake is an unofficial, fan-made mod loader and is not affiliated with or endorsed by Steel Wool Studios.
